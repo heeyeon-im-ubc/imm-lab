@@ -92,3 +92,12 @@ For the fusion of MEG and fMRI to be useful in obtaining high spatial and tempor
 
 :bulb: *This work is funded by the BC Children's Hospital Research Institute, Brain, Behaviour, and Development Theme and UBC Health.*
 {% include figure.html image="images/Fig4-Research.png" caption="" %}
+<img align="right" src="./images/Fig2-Research.png">
+
+<img align="right" src="/master/images/Fig2-Research.png" class="inline">
+
+<img align="right" src="images/Fig2-Research.png" class="inline">
+
+<img align="right" src="/master/images/Fig2-Research.png">
+
+<img align="right" src="images/Fig2-Research.png">
