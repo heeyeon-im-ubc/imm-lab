@@ -38,9 +38,8 @@ be preferred (although not required).
 
 **Great fit:** Experience with school-aged children is preferred. Ability to work effectively independently and in a team environment
 
-
-        Must be able to work up to 10 hours/week during weekdays (between 9 am and 5 pm). Ability to work in two different research sites (BC Children's Hospital in Vancouver and Surrey Memorial Hospital
-        in Surrey) 
+<br>
+Must be able to work up to 10 hours/week during weekdays (between 9 am and 5 pm). Ability to work in two different research sites (BC Children's Hospital in Vancouver and Surrey Memorial Hospitalin Surrey) 
 
 **Experience Level:** Current Students in a UBC Undergraduate Program, Current Students in a Master's Program
 
