@@ -36,7 +36,7 @@ We are currently studying how different parts of the brain work during this dyna
 :bulb: *This work is funded by the Natural Sciences and Engineering Council of Canada and the National Research Foundation of Korea.*
 <br>
  
-<img align="right" src="/images/Fig1-Research.png">
+<img align="right" src="images/Fig1-Research.png">
 
 {% include section.html %}
 ##  **(2) Joint visuomotor movements in real-world settings: Working with human or robot co-workers for common action goals in construction sites**
@@ -57,7 +57,7 @@ Now that the construction industry is becoming more futuristic (!!), with WALL-E
 :bulb: *This work is funded by the Social Sciences and Humanities Research Council and the Natural Sciences and Engineering Council of Canada.*
 <br>
 
-<img align="right" src="/images/Fig2-Research.png">
+<img align="right" src="images/Fig2-Research.png">
 
 {% include section.html %}
 ## **(3) Visuomotor abilities in children: development of vision and action links and impacts of early neurodevelopment disorders**x` 
@@ -76,7 +76,7 @@ Because children's brains are still plastic, disruption in one function (e.g., v
 
 :bulb: *This work is funded by the BC Children's Hospital Research Institute, Brain, Behaviour, and Development Theme and UBC Health.*
 <br>
-<img align="center" src="/images/Fig3-Research.png">
+<img align="center" src="images/Fig3-Research.png">
 
 <br>
 {% include section.html %}
@@ -91,4 +91,4 @@ For the fusion of MEG and fMRI to be useful in obtaining high spatial and tempor
 <br>
 
 :bulb: *This work is funded by the BC Children's Hospital Research Institute, Brain, Behaviour, and Development Theme and UBC Health.*
-![Neuroscience-Imgage2](/images/Fig4-Research.png)
+![Neuroscience-Imgage2](images/Fig4-Research.png)
