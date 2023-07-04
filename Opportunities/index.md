@@ -16,16 +16,39 @@ to see how you can impact our lab!
 {% include section.html %}
 <h2 style="text-align: left;"> <strong> Research Participants (Adults) </strong> </h2>
 
-<img align="left" width="480" height="700" src="/images/Fig1-Opportunity-Poster.png">
-<img align="right" width="480" height="700" src="/images/Fig2-Opportunity-PosterAd.png">
+<!-- Adult research study-->
+{% capture col1 %}
 
-<br>
-<br>
+{% include figure.html image="images/Fig1-Opportunity-Poster.png" caption="Adult vision research study"%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{% include figure.html image="images/Fig4-Opportunity-PosterAd.png" caption="Adult MEG/MRI research study" %}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2%}
+
 
 {% include section.html %}
 <h2 style="text-align: left;"> <strong> Research Participants (Children) </strong> </h2>
-<img align="left" width="480" height="700" src="/images/Fig3-Opportunity-PosterAd.png">
-<img align="right" width="480" height="700" src="/images/Fig4-Opportunity-PosterAd.png">
+
+
+{% capture col1 %}
+
+{% include figure.html image="images/Fig2-Opportunity-PosterAd.png" caption="Children MEG/MRI research study" %}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{% include figure.html image="images/Fig3-Opportunity-PosterAd.png" caption="Children MEG/MRI research study" %}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2%}
 
 <br>
 
