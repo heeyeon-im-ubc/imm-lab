@@ -2,7 +2,7 @@
 name: Ahad Zafar
 image: images/ahad-people.jpeg
 role: RA
-description: Lab Manager  ahadz@student.ubc.ca
+description: Research Assistant ahadz@student.ubc.ca
 links:
   email: ahadz@student.ubc.ca
 ---
