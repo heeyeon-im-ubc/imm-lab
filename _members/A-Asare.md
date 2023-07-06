@@ -1,6 +1,6 @@
 ---
-name: Akousa Asare
-image: images/akousa-people.jpg 
+name: Akosua Asare
+image: images/akosua-people.jpg 
 role: GA 
 description: Graduate Student kesewah@student.ubc.ca
 group: Graduate Students
