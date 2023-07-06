@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 <br> 
-<span style="font-size:1.25em;"> 1. [Ensemble coding for fast vision–action interactions](#1-ensemble-coding-for-fast-vision–action-interactions) <br> <br> 2. [Joint visuomotor movements in real world settings: Working with human or robot co-workers for common action goals](#2-joint-visuomotor-movements-in-real-world-settings-working-with-human-or-robot-co-workers-for-common-action-goals-in-construction-sites) <br><br> 3. [Visuomotor abilities in children](#3-visuomotor-abilities-in-children-development-of-vision-and-action-links-and-impacts-of-early-neurodevelopment-disordersx) <br><br> 4. [Multimodal neuroimaging for a better understanding of temporal and spatial properties of brain dynamics](#4-multimodal-neuroimaging-for-a-better-understanding-of-temporal-and-spatial-properties-of-brain-dynamics-during-visually-guided-movements)</span>
+<span style="font-size:1.25em;"> 1. [Ensemble coding for fast vision–action interactions](#1-ensemble-coding-for-fast-vision–action-interactions) <br> <br> 2. [Joint visuomotor movements in real world settings: Working with human or robot co-workers for common goals](#2-joint-visuomotor-movements-in-real-world-settings-working-with-human-or-robot-co-workers-for-common-action-goals-in-construction-sites) <br><br> 3. [Visuomotor abilities in children](#3-visuomotor-abilities-in-children-development-of-vision-and-action-links-and-impacts-of-early-neurodevelopment-disordersx) <br><br> 4. [Multimodal neuroimaging for a better understanding of temporal and spatial properties of brain dynamics](#4-multimodal-neuroimaging-for-a-better-understanding-of-temporal-and-spatial-properties-of-brain-dynamics-during-visually-guided-movements)</span>
 
 
 
