@@ -36,4 +36,4 @@ Education
 - Ph.D in Psychological & Brain Sciences, Johns Hopkins University (2013)
 - M.Sc in Cognitive Science, Yonsei University (2008)
 - B.S in Psychology, Yonsei University (2006)
-<br><br>
+<br>
