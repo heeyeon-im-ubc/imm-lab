@@ -12,3 +12,4 @@ links:
 ***Co-supervision with Deborah Giaschi***
 
 I am PhD Candidate in the Neuroscience Graduate Program. My research interests are in human motion and depth perception. I use a variety of psychophysical and neuroimaging techniques including functional MRI to understand how developmental visual disorders like amblyopia affect these visual functions. 
+
