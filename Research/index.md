@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 <br> 
-<span style="font-size:1.25em;"> 1. [Ensemble coding for fast vision–action interactions](#1-ensemble-coding-for-fast-vision–action-interactions) <br> <br> 2. [Joint visuomotor movements in real world settings:](#2-joint-visuomotor-movements-in-real-world-settings-working-with-human-or-robot-co-workers-for-common-action-goals-in-construction-sites) <br><br> 3. [Visuomotor abilities](#3-visuomotor-abilities-in-children-development-of-vision-and-action-links-and-impacts-of-early-neurodevelopment-disordersx) <br><br> 4. [Multimodal imaging](#4-multimodal-neuroimaging-for-a-better-understanding-of-temporal-and-spatial-properties-of-brain-dynamics-during-visually-guided-movements)</span>
+<span style="font-size:1.25em;"> 1. [Ensemble coding for fast vision–action interactions](#1-ensemble-coding-for-fast-vision–action-interactions) <br> <br> 2. [Joint visuomotor movements in real world settings: Working with human or robot co-workers for common goals](#2-joint-visuomotor-movements-in-real-world-settings-working-with-human-or-robot-co-workers-for-common-action-goals-in-construction-sites) <br><br> 3. [Visuomotor abilities in children](#3-visuomotor-abilities-in-children-development-of-vision-and-action-links-and-impacts-of-early-neurodevelopment-disordersx) <br><br> 4. [Multimodal neuroimaging for a better understanding of temporal and spatial properties of brain dynamics](#4-multimodal-neuroimaging-for-a-better-understanding-of-temporal-and-spatial-properties-of-brain-dynamics-during-visually-guided-movements)</span>
 
 
 
@@ -33,28 +33,28 @@ We are currently studying how different parts of the brain work during this dyna
 <br>
 
 
-:bulb: *This work is funded by the Natural Sciences and Engineering Council of Canada and the National Research Foundation of Korea.*
+_*This work is funded by the Natural Sciences and Engineering Council of Canada and the National Research Foundation of Korea._
 <br>
  
-{% include figure.html image="images/Fig1-Research.png" caption="" %}
+{% include figure.html image="images/Fig1-Research-new2.png" caption="" %}
 
 {% include section.html %}
 ##  **(2) Joint visuomotor movements in real-world settings: Working with human or robot co-workers for common action goals in construction sites**
 
 <p style="font-size:17px">
-We often make movements not in solo but in collaboration with others to achieve a common goal, such as lifting and moving a heavy object or hanging a big picture frame on the wall. We study how the human brain works to mediate interactive and collaborative visuomotor movements. For joint movements, not all actions are performed by one person; a series of complex movements is often partitioned into discrete and simpler segments, then different portions are assigned to each person. From one person's perspective, all they perform wouldn't make up a meaningful set of continuous movements: Instead, there should be discontinuity, pauses, or rushes to temporally coordinate different actions and synchronize work dynamics with others. For joint movements, therefore, they must be able to understand others' minds, action intentions, goals, and current progress, relying on cognitive, behavioural, emotional, and linguistic cues. 
+We often make goal-directed movements, not by ourselves, but in collaboration with others, such as lifting and moving a heavy object or hanging a big picture frame on the wall. We study how the human brain works to mediate interactive and collaborative visuomotor movements. For joint movements, not all actions are performed by one person; a series of complex movements is often partitioned into discrete and simpler segments, then different portions are assigned to each person. From one person's perspective, their individual actions wouldn't make up a meaningful set of continuous movements: Instead, there should be discontinuity, pauses, or rushes to temporally coordinate different actions and synchronize work dynamics with others. For joint movements, therefore, they must be able to understand others' minds, action intentions, goals, and current progress, relying on cognitive, behavioural, emotional, and linguistic cues. 
 </p>
 <br>
 
 <p style="font-size:17px">
-Performing joint movements is integral to dynamic workflows in many industrial scenes, such as construction and maintenance sites. Successfully planning and executing joint movements in the correct order and at the right time is vital for workers' safety and product quality. As a part of a collaborative group with researchers from Civil Engineering, Biomedical Engineering, and Computer Science, we are currently exploring cognitive, behavioural, and neural processes during successful and unsuccessful collaborative visuomotor movements in the real-world scenarios of construction sites, created by virtual reality and mobile labs equipped with wearable sensing devices. As a neuroscience research team, we lead studies on human abilities and strategies to assess action intentions, motor capability, and emotional and cognitive states of other co-workers and then, most importantly, to adjust and modify their own action plans and execution accordingly in real-time. We use visuomotor tasks made of common and essential functional modules for achieving manipulation goals in construction sites, including reaching, grasping, lifting, rotating, pulling, etc. We examine the brain signals, behavioural performance and 3D movements, and biophysiological measures in human construction workers during these collaborative visuomotor tasks.    
+Performing joint movements is integral to dynamic workflows in many industrial settings, such as construction and maintenance sites. Successfully planning and executing joint movements in the correct order and at the right time is vital for workers' safety and product quality. As a part of a collaborative group with researchers from Civil Engineering, Biomedical Engineering, and Computer Science, we are currently exploring cognitive, behavioural, and neural processes during successful and unsuccessful collaborative visuomotor movements in the real-world scenarios of construction sites, created by virtual reality and mobile labs equipped with wearable sensing devices. As a neuroscience research team, we lead studies on human abilities and strategies to assess action intentions, motor capability, and emotional and cognitive states of other co-workers and then, most importantly, to adjust and modify their own action plans and execution accordingly in real-time. We use visuomotor tasks made of common and essential functional modules for achieving manipulation goals in construction sites, including reaching, grasping, lifting, rotating, pulling, etc. We examine the brain signals, behavioural performance and 3D movements, and biophysiological measures in human construction workers during these collaborative visuomotor tasks.    
 </p><br>
 
 <p style="font-size:17px">
 Now that the construction industry is becoming more futuristic (!!), with WALL-E-like robotic workers assisting human workers in many dexterous, physically demanding, and dangerous tasks, we also study human-robot collaborations during the same visuomotor movements in virtual construction settings that are distracting, cluttered, and busy. We generate multimodality data  from human construction workers, measuring cognitive/emotional states (e.g., attentional focus or distraction, anxiety, confidence level, etc.) and behaviours (e.g., common patterns observed immediately before human lapses and errors which can sometimes be fatal, such as falling or dropping). These data are processed so that they serve as useful inputs for controlling policies of human-centred construction robots being developed by our research collaborators in engineering departments. We hope this interdisciplinary research project will improve robot construction workers' skillsets in reading and responding to how human co-workers learn, move, feel, and make decisions on site and enhance training programs and task structures for human co-workers, making working dynamics between robot-human pairs safer and less demanding.
 </p><br>
  
-:bulb: *This work is funded by the Social Sciences and Humanities Research Council and the Natural Sciences and Engineering Council of Canada.*
+_*This work is funded by the Social Sciences and Humanities Research Council and the Natural Sciences and Engineering Council of Canada._
 <br>
 
 {% include figure.html image="images/Fig2-Research.png" caption="" %}
@@ -74,7 +74,7 @@ Using neuroimaging devices that are non-invasive and suitable for testing childr
 Because children's brains are still plastic, disruption in one function (e.g., vision) will likely have far-reaching and lasting consequences on the ways that the brain's functional specialization is shaped and established in the long run. This motivates our recent projects on visuomotor skill learning in children who have reduced vision due to a neurodevelopment disorder called amblyopia (also called lazy eye) early in life. We study how reduced vision during early childhood is associated with a cascade of impacts on visuomotor abilities and subsequent changes in a range of brain functions, which must be acquired and matured during this critical period for brain and behaviour development. 
 </p><br>
 
-:bulb: *This work is funded by the BC Children's Hospital Research Institute, Brain, Behaviour, and Development Theme and UBC Health.*
+_*This work is funded by the BC Children's Hospital Research Institute, Brain, Behaviour, and Development Theme and UBC Health._
 <br>
 {% include figure.html image="images/Fig3-Research.png" caption="" %}
 
@@ -97,5 +97,5 @@ For mobile studies using our recent virtual reality setup, we alternatively use 
 </p>
 <br>
 
-:bulb: *This work is funded by the BC Children's Hospital Research Institute, Brain, Behaviour, and Development Theme and UBC Health.*
+_*This work is funded by the Djavad Mowafaghian Centre for Brain Health and the Social Sciences and Humanities Research Council._
 {% include figure.html image="images/Fig4-Research.png" caption="" %}
