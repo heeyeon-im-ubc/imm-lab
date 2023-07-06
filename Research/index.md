@@ -33,7 +33,7 @@ We are currently studying how different parts of the brain work during this dyna
 <br>
 
 
-*This work is funded by the Natural Sciences and Engineering Council of Canada and the National Research Foundation of Korea.*
+_*This work is funded by the Natural Sciences and Engineering Council of Canada and the National Research Foundation of Korea._
 <br>
  
 {% include figure.html image="images/Fig1-Research.png" caption="" %}
@@ -54,7 +54,7 @@ Performing joint movements is integral to dynamic workflows in many industrial s
 Now that the construction industry is becoming more futuristic (!!), with WALL-E-like robotic workers assisting human workers in many dexterous, physically demanding, and dangerous tasks, we also study human-robot collaborations during the same visuomotor movements in virtual construction settings that are distracting, cluttered, and busy. We generate multimodality data  from human construction workers, measuring cognitive/emotional states (e.g., attentional focus or distraction, anxiety, confidence level, etc.) and behaviours (e.g., common patterns observed immediately before human lapses and errors which can sometimes be fatal, such as falling or dropping). These data are processed so that they serve as useful inputs for controlling policies of human-centred construction robots being developed by our research collaborators in engineering departments. We hope this interdisciplinary research project will improve robot construction workers' skillsets in reading and responding to how human co-workers learn, move, feel, and make decisions on site and enhance training programs and task structures for human co-workers, making working dynamics between robot-human pairs safer and less demanding.
 </p><br>
  
-*This work is funded by the Social Sciences and Humanities Research Council and the Natural Sciences and Engineering Council of Canada.*
+_*This work is funded by the Social Sciences and Humanities Research Council and the Natural Sciences and Engineering Council of Canada._
 <br>
 
 {% include figure.html image="images/Fig2-Research.png" caption="" %}
@@ -74,7 +74,7 @@ Using neuroimaging devices that are non-invasive and suitable for testing childr
 Because children's brains are still plastic, disruption in one function (e.g., vision) will likely have far-reaching and lasting consequences on the ways that the brain's functional specialization is shaped and established in the long run. This motivates our recent projects on visuomotor skill learning in children who have reduced vision due to a neurodevelopment disorder called amblyopia (also called lazy eye) early in life. We study how reduced vision during early childhood is associated with a cascade of impacts on visuomotor abilities and subsequent changes in a range of brain functions, which must be acquired and matured during this critical period for brain and behaviour development. 
 </p><br>
 
-:bulb: *This work is funded by the BC Children's Hospital Research Institute, Brain, Behaviour, and Development Theme and UBC Health.*
+_*This work is funded by the BC Children's Hospital Research Institute, Brain, Behaviour, and Development Theme and UBC Health._
 <br>
 {% include figure.html image="images/Fig3-Research.png" caption="" %}
 
@@ -97,5 +97,5 @@ For mobile studies using our recent virtual reality setup, we alternatively use 
 </p>
 <br>
 
-:bulb: *This work is funded by the BC Children's Hospital Research Institute, Brain, Behaviour, and Development Theme and UBC Health.*
+_*This work is funded by the BC Children's Hospital Research Institute, Brain, Behaviour, and Development Theme and UBC Health._
 {% include figure.html image="images/Fig4-Research.png" caption="" %}
