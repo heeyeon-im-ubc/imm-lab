@@ -99,3 +99,4 @@ For mobile studies using our recent virtual reality setup, we alternatively use 
 
 _*This work is funded by the BC Children's Hospital Research Institute, Brain, Behaviour, and Development Theme and UBC Health._
 {% include figure.html image="images/Fig4-Research.png" caption="" %}
+
