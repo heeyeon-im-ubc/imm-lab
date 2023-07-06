@@ -13,7 +13,6 @@ Our broad aim is to understand how we see and interact with the world around us.
 
 <br>
 We use functional neuroimaging (fMRI) and magnetoencephalography (MEG) to measure the human brain. We also use behavioural methods to measure human perceptual, cognitive, and motor capacities. Combining different techniques (mostly fMRI+MEG, but sometimes fNIRS+EEG to allow participants to make more active and less-constrained movements), we focus on the dynamic time courses of neural activities occurring in different parts of the brain.
-<br>
 
 <!-- Section break -->
 {% include section.html %}
