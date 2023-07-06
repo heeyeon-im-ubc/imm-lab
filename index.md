@@ -25,7 +25,7 @@ We use functional neuroimaging (fMRI) and magnetoencephalography (MEG) to measur
 {%
   include button.html
   link="Research"
-  text="Learn about IMM Lab's research"
+  text="Learn about IMM Lab's current research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="blue-white"
@@ -47,7 +47,7 @@ We use functional neuroimaging (fMRI) and magnetoencephalography (MEG) to measur
 {%
   include button.html
   link="People"
-  text="Meet our team"
+  text="Meet our team members"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="blue-white"
