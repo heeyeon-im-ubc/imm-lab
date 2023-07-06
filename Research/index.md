@@ -36,7 +36,7 @@ We are currently studying how different parts of the brain work during this dyna
 _*This work is funded by the Natural Sciences and Engineering Council of Canada and the National Research Foundation of Korea._
 <br>
  
-{% include figure.html image="images/Fig1-Research.png" caption="" %}
+{% include figure.html image="images/Fig1-Research-new.png" caption="" %}
 
 {% include section.html %}
 ##  **(2) Joint visuomotor movements in real-world settings: Working with human or robot co-workers for common action goals in construction sites**
