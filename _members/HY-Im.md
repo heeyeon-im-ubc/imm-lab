@@ -21,18 +21,18 @@ I am interested in understanding neurocognitive processes underlying dynamic int
 
 {% include section.html %}
 
-Academic Appointments
-Current:
+# Academic Appointments
+# Current:
 - Assistant Professor, Department of Psychology, University of British Columbia
 - Investigator, BC Children’s Hospital
 - Member, Djavad Mowafaghian Centre for Brain Health
 
-Previous:
+# Previous:
 - Instructor, Boston Children’s Hospital / Harvard Medical School (2020), Fetal-Neonatal Neuroimaging and Developmental Science Center, Department of Pediatrics
 - Postdoctoral Fellow, Massachusetts General Hospital / Harvard Medical School (2015-2019), Martinos Center for Biomedical Imaging, Department of Radiology
 - Postdoctoral Associate, Brown University (2014-2015), Department of Cognitive, Linguistics, & Psychological Sciences
 
-Education
+# Education
 - Ph.D in Psychological & Brain Sciences, Johns Hopkins University (2013)
 - M.Sc in Cognitive Science, Yonsei University (2008)
 - B.S in Psychology, Yonsei University (2006)
