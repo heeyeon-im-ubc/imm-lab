@@ -21,12 +21,11 @@ We use functional neuroimaging (fMRI) and magnetoencephalography (MEG) to measur
 
 <!-- Research -->
 {% capture text %}
-Current research is mainly focused on ensemble perception, social vision, and visuomotor adaptation with methods involving fMRI and MEG. 
 
 {%
   include button.html
   link="Research"
-  text="Learn about Hee Yeon's research"
+  text="Learn about IMM Lab's research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="blue-white"
@@ -44,12 +43,11 @@ Current research is mainly focused on ensemble perception, social vision, and vi
 
 <!-- Team / People -->
 {% capture text %}
-Meet our lab members and learn of their research. If you are looking for ways to connect with the lab, visit our Opportunities page. 
 
 {%
   include button.html
   link="People"
-  text="Meet the team"
+  text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="blue-white"
@@ -68,12 +66,11 @@ Meet our lab members and learn of their research. If you are looking for ways to
 
 <!-- Publications -->
 {% capture text %}
-If you are interested in our research and want to learn more about visuomotor adaptation, click on the publications section!
 
 {%
   include button.html
   link="Publications"
-  text="Browse research papers"
+  text="Browse published papers"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="blue-white"
