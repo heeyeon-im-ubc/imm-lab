@@ -97,6 +97,5 @@ For mobile studies using our recent virtual reality setup, we alternatively use 
 </p>
 <br>
 
-_*This work is funded by the BC Children's Hospital Research Institute, Brain, Behaviour, and Development Theme and UBC Health._
+_*This work is funded by the Djavad Mowafaghian Centre for Brain Health and the Social Sciences and Humanities Research Council._
 {% include figure.html image="images/Fig4-Research.png" caption="" %}
-
