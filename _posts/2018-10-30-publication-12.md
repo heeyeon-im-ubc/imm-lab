@@ -14,7 +14,7 @@ During face perception, we integrate facial expression and eye gaze to take adva
 <br><br>
 
 
-*Im, H.Y., Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). Sex-related differences in behavioral and amygdalar responses to compound facial threat cues. Human Brain Mapping, 39, 2725-2741.*  [[PDF]]( https://doi.org/10.1002/hbm.24035){:target="_blank"}
+*Im, H.Y., Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). Sex-related differences in behavioral and amygdalar responses to compound facial threat cues. Human Brain Mapping, 39, 2725-2741.*  [[PDF]](https://doi.org/10.1002/hbm.24035){:target="_blank"}
 
 <!---
 Im, H.Y., Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). Sex-related differences in behavioral and amygdalar responses to compound facial threat cues. Human Brain Mapping, 39, 2725-2741.
