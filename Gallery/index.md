@@ -13,7 +13,7 @@ nav:
 <!-- Research Day Images -->
 {% capture col1 %}
 
-{% include figure.html image="images/akousa-conference-img1.jpg" caption="Akosua (Ph.D. student) at Research Day (2022), BC Children’s Hospital, Brain, Behaviour, & Development Theme"%}
+{% include figure.html image="images/akosua-conference-img1.jpg" caption="Akosua (Ph.D. student) at Research Day (2022), BC Children’s Hospital, Brain, Behaviour, & Development Theme"%}
 
 {% endcapture %}
 
@@ -34,7 +34,7 @@ nav:
 
 {% capture col2 %}
 
-{% include figure.html image="images/akousa-conference2-img1.jpg" caption="Akosua (Ph.D. student) at the Association for Research in Vision and Ophthalmology (ARVO, 2022)" %}
+{% include figure.html image="images/akosua-conference2-img1.jpg" caption="Akosua (Ph.D. student) at the Association for Research in Vision and Ophthalmology (ARVO, 2022)" %}
 
 {% endcapture %}
 
