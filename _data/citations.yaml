@@ -89,8 +89,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/hbm.24035
-  title: Sex-related differences in behavioral and amygdalar responses to compound
-    facial threat cues
+  title: "<scp>S</scp>ex\u2010related differences in behavioral and amygdalar responses\
+    \ to compound facial threat cues"
   authors:
   - Hee Yeon Im
   - Reginald B. Adams
