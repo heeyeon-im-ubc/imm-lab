@@ -8,5 +8,5 @@ links:
   email: aziz082@student.ubc.ca
 ---
 
-Melissa graduated from her degree in Cognitive Systems (COGS) at UBC in 2023. She has been a research assistant at the Opthalmology Lab in BC Children's Hospital since 2021. 
+Melissa graduated from UBC in 2023 with a degree in Cognitive Systems (COGS). She was a research assistant at the Opthalmology Lab in BC Children's Hospital from 2021 to 2023.
 

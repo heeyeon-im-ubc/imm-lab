@@ -22,7 +22,7 @@ nav:
 
 <!-- Section for Alumni -->
 {% include section.html %}
-## Alumni
+## Previous Members
 {% include list.html data="members" component="portrait" filters="role: Al" background="gray"%}
 
 ## Our Affiliations 
