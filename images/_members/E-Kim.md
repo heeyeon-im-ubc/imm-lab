@@ -3,7 +3,7 @@ name: Eddie Kim
 image: images/eddie-people.png
 role: RA
 group: Research Assistant  
-description: Work-Learn Student   eddiek57@student.ubc.ca
+description: Work-Learn student   eddiek57@student.ubc.ca
 links:
   email: eddiek57@student.ubc.ca
 ---
